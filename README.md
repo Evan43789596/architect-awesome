@@ -744,6 +744,7 @@ TODO
 ## 23种常见设计模式
 * [《设计模式》](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
 * [《23种设计模式全解析》](https://www.cnblogs.com/susanws/p/5510229.html)
+* [《设计模式类图与示例》](https://github.com/ToryZhou/design-pattern)
 
 ## 应用场景
 * [《细数JDK里的设计模式》](http://blog.jobbole.com/62314/)
@@ -1538,7 +1539,7 @@ MyISAM 是非聚集，InnoDB 是聚集
 
 
 * [《邪恶的JAVA HASH DOS攻击》](http://www.freebuf.com/articles/web/14199.html)
-	* 利用JsonObjet 上传大Json，JsonObject 底层使用HashMap；不同的数据产生相同的hash值，使得构建Hash速度变慢，耗尽CPU。
+	* 利用JsonObject 上传大Json，JsonObject 底层使用HashMap；不同的数据产生相同的hash值，使得构建Hash速度变慢，耗尽CPU。
 * [《一种高级的DoS攻击-Hash碰撞攻击》](http://blog.it2048.cn/article_hash-collision.html )
 * [《关于Hash Collision DoS漏洞：解析与解决方案》](http://www.iteye.com/news/23939/)
 
